@@ -15,7 +15,7 @@ function showDate(){
 function bc(){
 	document.getElementById('ts').src = 'img/2.png';
 }
-function bw(){
+function wc(){
 	document.getElementById('ts').src = 'img/1.png';
 }
 
